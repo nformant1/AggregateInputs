@@ -1,6 +1,6 @@
 # :rocket: Dogecoin: Aggregate Inputs
 
-This script will take a number of UTXOs (defined in txcount) and will send/aggregate it to another address (defined in aggAddress).
+This script (aggUTXOs.py) will take a number of UTXOs (defined in txcount) and will send/aggregate it to another address (defined in aggAddress).
 The script will do 3 loops (defined in maxloops) and will wait 20 seconds (time.sleep(20)) after each transaction in send.
 
 You need a dogecoin core wallet running for this script. It is okay to just have dogecoin-qt up and running. In my case I run "dogecoin-qt -testnet". 
