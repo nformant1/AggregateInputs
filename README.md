@@ -14,3 +14,5 @@ The fees seem to be calculated wrong (too high for big transactions) and probabl
 ![Screenshot](https://github.com/nformant1/AggregateInputs/blob/main/script_in_action.png)
 
 You see the txid as print-output in the script and it will appear in your tx list in your core wallet.
+
+I am not the author of rpc_connection.py - I will add the source, credit the creator etc. as soon as possible. I need to figure this out... sorry!
