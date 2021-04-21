@@ -15,4 +15,4 @@ The fees seem to be calculated wrong (too high for big transactions) and probabl
 
 You see the txid as print-output in the script and it will appear in your tx list in your core wallet.
 
-I am not the author of rpc_connection.py - I will add the source, credit the creator etc. as soon as possible. I need to figure this out... sorry!
+Credit: rpc_connection.py is based on [pyminer](https://github.com/jgarzik/pyminer/blob/master/pyminer.py)
